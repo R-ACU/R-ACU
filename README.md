@@ -1,4 +1,4 @@
-## Hi, I'm Remo
+## Hi, I'm Remo 👾
 
 I like automations and building small stuff.
 
