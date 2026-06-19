@@ -1,14 +1,14 @@
-### Hi, I'm Remo 👋
+## Hi, I'm Remo 👋
 
-Wirtschaftsinformatik student & indie developer from Germany. I build small, polished products — desktop apps, web tools, and automation around local AI.
+I'm a Wirtschaftsinformatik student from Germany who'd rather build something than talk about it. Small, polished desktop apps and web tools are my thing, usually with some local AI and automation wired in.
 
-**Stack:** TypeScript · React · Next.js · Tauri · Python
+Polish matters to me more than a long feature list. If it feels janky, it's not finished.
 
-**Into:** local AI, automation, hardware tinkering, and shipping my own digital products.
+**Tools I reach for:** TypeScript, React, Next.js, Tauri, Python
 
-*Building in public — more soon.*
+**These days:** shipping my own products and figuring out the indie thing as I go.
 
----
+I build in public, so there's more coming soon.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R-ACU/R-ACU/output/github-contribution-grid-snake-dark.svg" />
